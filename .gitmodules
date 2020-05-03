@@ -1,0 +1,3 @@
+[submodule "aws-static-website-jenkins"]
+	path = aws-static-website-jenkins
+	url = git@github.com:thom/aws-static-website-jenkins.git
